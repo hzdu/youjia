@@ -7,4 +7,4 @@
 1. Python 3.12.9
 2. gradio/requests/beautifulsoup4
 
-佛系更新，源代码，即使服务的网页更新了，自己修改一下代码就可以了
+佛系，不要issues，即使服务的网页更新了，自己修改一下源代码就可以了
