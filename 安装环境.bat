@@ -1,0 +1,1 @@
+cd /d "%~dp0" && conda activate youjia && pip install -r requirements.txt

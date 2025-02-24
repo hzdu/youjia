@@ -1,0 +1,1 @@
+cd /d "%~dp0" && conda create -n youjia python=3.12.9 && conda activate youjia
